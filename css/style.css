@@ -234,7 +234,7 @@ button {
     float: left;
 }
 .menu_main a{
-    color: #fff;
+    color: #000000;
 }
 
 .overlay {
@@ -317,7 +317,7 @@ button {
     width: 100%;
     float: left;
     font-size: 55px;
-    color: #ffffff;
+    color: #000000;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -325,7 +325,7 @@ button {
     width: 80%;
     float: left;
     font-size: 16px;
-    color: #f8fdfe;
+    color: #000000;
     margin-left: 0px;
 }
 .contact_bt{
